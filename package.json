@@ -4,7 +4,6 @@
   "main": "src/server.js",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon",
     "test": "jest"
   },
   "dependencies": {
